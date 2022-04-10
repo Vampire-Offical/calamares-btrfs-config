@@ -1,1 +1,1 @@
-# Alci Calamares config
+#Calamares config
